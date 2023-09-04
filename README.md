@@ -1,4 +1,3 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifbfKCaSBcMDHptuXp7rjfNxAXcaDjHvKArVp3yZP3Tq-ToC7Ll8nVPi_aKOEte0umJEPSDtfsgYcUfDEzgnNjdE_1pzHqy8BgXzi6j-4PVZOwGn-2BNiJLFGYM8Jn5vRJmSzmRXcujQeBiRWqEWYa-8Yz7Vpzp29sYxsfWSnfSS0XhcjZL6yEEyj0p2Cb/s2444/blog%20intro.png)
 <h1 align="center">Hi 👋, I'm Navuluri Balaji</h1>
 <h3 align="center">"Crafting Intuitive Experiences through UI/UX Design | Exploring the Intersection of Design and Machine Learning"</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
