@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Navuluri Balaji</h1>
-<h3 align="center">"Crafting Intuitive Experiences through UI/UX Design | Exploring the Intersection of Design and Machine Learning"</h3>
+<h3 align="center">"Crafting Intuitive Experiences through UI/UX Design | Exploring LLM's Generative AI RAG's Langchain"</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-- 🔭 I’m currently working on **Portfolio Design, Pre-term birth prediciton**
+- 🔭 I’m currently working on **various Large Language Models and AI agents that are compatible with the LangChain framework**
 
-- 🌱 I’m currently learning **UI/UX Designing, Py torch**
+- 🌱 I’m currently learning **Generative AI, Deep Learning Architecture*
 
-- 💬 Ask me about **Figma, Adobe Illustrator, Adobe Photoshop, Adobe Premier pro, Machine Learning**
+- 💬 Ask me about **GEN AI, Explainable AI, Langchain and Machine Learning**
 
 - 📫 How to reach me **balajinbtt@gmail.com**
 
