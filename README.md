@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="AI & ML Banner" width="100%">
-</div>
-
 # Hi there, I'm Navuluri Balaji 👋
 
 I'm an AI and Machine Learning Engineer passionate about developing intelligent systems that solve real-world problems. My expertise lies at the intersection of AI, UI/UX design, and software development.
