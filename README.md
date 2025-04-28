@@ -54,4 +54,4 @@ I'm an AI and Machine Learning Engineer passionate about developing intelligent 
 
 - Email: balajinbtt@gmail.com
 - LinkedIn: [Navuluri Balaji](https://linkedin.com/in/navuluri-balaji)
-- Portfolio: [Website](https://your-portfolio-url.com)
+- Portfolio: [Website](https://navuluribalaji.github.io/MyPortfolio/)
